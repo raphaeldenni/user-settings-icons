@@ -1,0 +1,51 @@
+/**
+ * @name User's Settings Icons
+ * @author SlγЗγєѕ#5557
+ * @version 1.2
+ * @description Add icons in your user's settings
+ * @authorId 381131731996246017
+*/
+
+/* Base : */
+@import url("https://slyeyes.github.io/Users_Settings_Icons/src/base.css");
+
+/* You can use your own icon. Just change the image link below. */
+
+:root {
+
+    /* Discord's menu icon : */
+
+    --account:       url(https://codedotspectra.github.io/themes/icons/account.png);
+    --privacy:       url(https://codedotspectra.github.io/themes/icons/privacy.png);
+    --apps:          url(https://codedotspectra.github.io/themes/icons/apps.png);
+    --connections:   url(https://codedotspectra.github.io/themes/icons/connections.png);
+    --nitro:         url(https://codedotspectra.github.io/themes/icons/nitro.png);
+    --boost:         url(https://codedotspectra.github.io/themes/icons/boost.png);
+    --gift:          url(https://codedotspectra.github.io/themes/icons/gift.png);
+    --billing:       url(https://codedotspectra.github.io/themes/icons/billing.png);
+    --voice:         url(https://codedotspectra.github.io/themes/icons/voice.png);
+    --text:          url(https://codedotspectra.github.io/themes/icons/text.png);
+    --eye:           url(https://codedotspectra.github.io/themes/icons/eye.png);
+    --notifications: url(https://codedotspectra.github.io/themes/icons/notifications.png);
+    --keybinds:      url(https://codedotspectra.github.io/themes/icons/keybinds.png);
+    --language:      url(https://codedotspectra.github.io/themes/icons/language.png);
+    --windows:       url(https://codedotspectra.github.io/themes/icons/windows.png);
+    --twitch:        url(https://codedotspectra.github.io/themes/icons/twitch.png);
+    --games:         url(https://codedotspectra.github.io/themes/icons/games.png);
+    --overlay:       url(https://codedotspectra.github.io/themes/icons/overlay.png);
+    --changelog:     url(https://codedotspectra.github.io/themes/icons/changelog.png);
+    --hype:          url(https://codedotspectra.github.io/themes/icons/hype.png);
+    --logout:        url(https://codedotspectra.github.io/themes/icons/logout.png);
+
+    /* Bandaged BD's menu icon : */
+
+    --core:          url(https://codedotspectra.github.io/themes/icons/core.png);
+    --emote:         url(https://codedotspectra.github.io/themes/icons/emote.png);
+    --plugins:       url(https://codedotspectra.github.io/themes/icons/plugins.png);
+    --theme:         url(https://codedotspectra.github.io/themes/icons/theme.png);
+    --css:           url(https://codedotspectra.github.io/themes/icons/css.png);
+}
+
+/* 
+Icons by Yann Miraud https://github.com/codedotspectra
+*/

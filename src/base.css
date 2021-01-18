@@ -1,0 +1,44 @@
+/* Base code : */
+
+.side-8zPYf6 .item-PXvHYJ, .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item {padding-left: 42.5px;}
+.side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before, .sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before {
+    content: "";
+    background-size: cover!important;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+
+/* Discord's menu icon : */
+
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:var(--account)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:var(--privacy)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:var(--apps)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:var(--connections)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:var(--nitro)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:var(--boost)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:var(--gift)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:var(--billing)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:var(--voice)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:var(--text)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:var(--eye)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:var(--notifications)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:var(--keybinds)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:var(--language)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:var(--windows)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:var(--twitch)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before{background:var(--games)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:var(--overlay)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:var(--changelog)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before{background:var(--hype)}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(31)::before{background:var(--logout)}
+
+/* Bandaged BD's menu icon : */
+
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before{background:var(--core)}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before{background:var(--emote)}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::before{background:var(--plugins)}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::before{background:var(--theme)}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::before{background:var(--css)}
